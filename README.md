@@ -1,5 +1,5 @@
-# DEPI_-project-Bank-System-
-Graduation Project -DEPI
+# DEPI project Bank System
+Graduation Project DEPI
 ---
 
 ## 👥 Team Members
