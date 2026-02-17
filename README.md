@@ -2,9 +2,7 @@
 Graduation Project DEPI
 ---
 
-# Project Name
-
-Bank System
+# Project Name :-(Bank System)
 
 .
 
@@ -81,4 +79,4 @@ The project focuses on applying software engineering principles such as clean ar
 ## Instructor
 -Ashraf Sadek
 
-Ashraf Sadek
+
