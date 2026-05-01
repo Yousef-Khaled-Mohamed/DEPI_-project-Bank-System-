@@ -1,0 +1,697 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\course projects\\C#\\p4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|d:\\course projects\\c#\\p4\\bankmanagement.infrastructure\\migrations\\20260430185808_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|solutionrelative:bankmanagement.infrastructure\\migrations\\20260430185808_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|d:\\course projects\\c#\\p4\\bankmanagement.infrastructure\\services\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|solutionrelative:bankmanagement.infrastructure\\services\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|d:\\course projects\\c#\\p4\\bankmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|solutionrelative:bankmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|d:\\course projects\\c#\\p4\\bankmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|solutionrelative:bankmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|d:\\course projects\\c#\\p4\\bankmanagement.api\\controllers\\tellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|solutionrelative:bankmanagement.api\\controllers\\tellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|d:\\course projects\\c#\\p4\\bankmanagement.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|solutionrelative:bankmanagement.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|d:\\course projects\\c#\\p4\\bankmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|solutionrelative:bankmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|d:\\course projects\\c#\\p4\\bankmanagement.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|solutionrelative:bankmanagement.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|d:\\course projects\\c#\\p4\\bankmanagement.infrastructure\\migrations\\20260429211613_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|solutionrelative:bankmanagement.infrastructure\\migrations\\20260429211613_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|d:\\course projects\\c#\\p4\\bankmanagement.infrastructure\\services\\tellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|solutionrelative:bankmanagement.infrastructure\\services\\tellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|d:\\course projects\\c#\\p4\\bankmanagement.infrastructure\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|solutionrelative:bankmanagement.infrastructure\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|d:\\course projects\\c#\\p4\\bankmanagement.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|solutionrelative:bankmanagement.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|d:\\course projects\\c#\\p4\\bankmanagement.infrastructure\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A711A35-B05A-AF40-0B59-FE2CC9702E80}|BankManagement.Infrastructure\\BankManagement.Infrastructure.csproj|solutionrelative:bankmanagement.infrastructure\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\iservice\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\iservice\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\iservice\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\iservice\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\iservice\\itellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\iservice\\itellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\createloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\createloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|d:\\course projects\\c#\\p4\\bankmanagement.domain\\bankmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|solutionrelative:bankmanagement.domain\\bankmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\bankmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\bankmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\systemsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\systemsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\createtellerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\createtellerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\amountoperationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\amountoperationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|d:\\course projects\\c#\\p4\\bankmanagement.application\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE08631F-441A-CE03-62BA-819FF2575619}|BankManagement.Application\\BankManagement.Application.csproj|solutionrelative:bankmanagement.application\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|d:\\course projects\\c#\\p4\\bankmanagement.domain\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|solutionrelative:bankmanagement.domain\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|d:\\course projects\\c#\\p4\\bankmanagement.domain\\entities\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|solutionrelative:bankmanagement.domain\\entities\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|d:\\course projects\\c#\\p4\\bankmanagement.domain\\entities\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|solutionrelative:bankmanagement.domain\\entities\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|d:\\course projects\\c#\\p4\\bankmanagement.domain\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|solutionrelative:bankmanagement.domain\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|d:\\course projects\\c#\\p4\\bankmanagement.domain\\entities\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|solutionrelative:bankmanagement.domain\\entities\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|d:\\course projects\\c#\\p4\\bankmanagement.domain\\enum\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|solutionrelative:bankmanagement.domain\\enum\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|d:\\course projects\\c#\\p4\\bankmanagement.domain\\enum\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7192A57-C00D-9CDE-C11F-959F863C9842}|BankManagement.Domain\\BankManagement.Domain.csproj|solutionrelative:bankmanagement.domain\\enum\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|d:\\course projects\\c#\\p4\\bankmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7C4F310-BB86-7265-669E-CA4A5A1441DD}|BankManagement.API\\BankManagement.API.csproj|solutionrelative:bankmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260430185808_one.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Migrations\\20260430185808_one.cs",
+              "RelativeDocumentMoniker": "BankManagement.Infrastructure\\Migrations\\20260430185808_one.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Migrations\\20260430185808_one.cs",
+              "RelativeToolTip": "BankManagement.Infrastructure\\Migrations\\20260430185808_one.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:58:09.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BankManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BankManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:32:18.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BankManagement.API\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BankManagement.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABgAAABAmZmZmVkpwA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:31:51.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "BankManagement.API\\Program.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.API\\Program.cs",
+              "RelativeToolTip": "BankManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:32:53.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BankManagement.API\\appsettings.json",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.API\\appsettings.json",
+              "RelativeToolTip": "BankManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T21:21:39.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Services\\DbContext.cs",
+              "RelativeDocumentMoniker": "BankManagement.Infrastructure\\Services\\DbContext.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Services\\DbContext.cs",
+              "RelativeToolTip": "BankManagement.Infrastructure\\Services\\DbContext.cs",
+              "ViewState": "AgIAAFIAAABAZGZmZmYXwE8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:14:55.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "BankManagement.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "BankManagement.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:32:46.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TellerController.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.API\\Controllers\\TellerController.cs",
+              "RelativeDocumentMoniker": "BankManagement.API\\Controllers\\TellerController.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.API\\Controllers\\TellerController.cs",
+              "RelativeToolTip": "BankManagement.API\\Controllers\\TellerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:33:15.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260429211613_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Migrations\\20260429211613_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "BankManagement.Infrastructure\\Migrations\\20260429211613_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Migrations\\20260429211613_InitialCreate.Designer.cs",
+              "RelativeToolTip": "BankManagement.Infrastructure\\Migrations\\20260429211613_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:31:15.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\IService\\IAdminService.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\IService\\IAdminService.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\IService\\IAdminService.cs",
+              "RelativeToolTip": "BankManagement.Application\\IService\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:25:15.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BankManagement.Infrastructure\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Services\\CustomerService.cs",
+              "RelativeToolTip": "BankManagement.Infrastructure\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:13:46.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "BankManagement.Infrastructure\\Services\\AdminService.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Services\\AdminService.cs",
+              "RelativeToolTip": "BankManagement.Infrastructure\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:03:47.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BankManagement.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "BankManagement.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABAPRIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:06:04.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\MappingProfile.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\MappingProfile.cs",
+              "RelativeToolTip": "BankManagement.Application\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:37:44.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TellerService.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Services\\TellerService.cs",
+              "RelativeDocumentMoniker": "BankManagement.Infrastructure\\Services\\TellerService.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Infrastructure\\Services\\TellerService.cs",
+              "RelativeToolTip": "BankManagement.Infrastructure\\Services\\TellerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:07:03.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\IService\\IAuthService.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\IService\\IAuthService.cs",
+              "RelativeToolTip": "BankManagement.Application\\IService\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:24:43.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\IService\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\IService\\ICustomerService.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\IService\\ICustomerService.cs",
+              "RelativeToolTip": "BankManagement.Application\\IService\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:26:17.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITellerService.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\IService\\ITellerService.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\IService\\ITellerService.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\IService\\ITellerService.cs",
+              "RelativeToolTip": "BankManagement.Application\\IService\\ITellerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:25:40.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoanDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\LoanDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\LoanDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\LoanDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\LoanDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:13:27.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateLoanDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\CreateLoanDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\CreateLoanDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\CreateLoanDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\CreateLoanDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:20:22.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateCustomerDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\CreateCustomerDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\CreateCustomerDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\CreateCustomerDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\CreateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:18:03.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BankManagement.Domain.csproj",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\BankManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "BankManagement.Domain\\BankManagement.Domain.csproj",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\BankManagement.Domain.csproj",
+              "RelativeToolTip": "BankManagement.Domain\\BankManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T16:01:57.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BankManagement.Application.csproj",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\BankManagement.Application.csproj",
+              "RelativeDocumentMoniker": "BankManagement.Application\\BankManagement.Application.csproj",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\BankManagement.Application.csproj",
+              "RelativeToolTip": "BankManagement.Application\\BankManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T18:10:57.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\CustomerDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\CustomerDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:13:27.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SystemSummaryDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\SystemSummaryDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\SystemSummaryDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\SystemSummaryDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\SystemSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:13:27.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\TransactionDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\TransactionDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:13:28.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\LoginRequestDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\LoginRequestDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:16:51.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateTellerDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\CreateTellerDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\CreateTellerDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\CreateTellerDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\CreateTellerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:17:30.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateAccountDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\CreateAccountDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\CreateAccountDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\CreateAccountDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\CreateAccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:18:45.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AmountOperationDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\AmountOperationDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\AmountOperationDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\AmountOperationDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\AmountOperationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:19:25.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TransferDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\TransferDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\TransferDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\TransferDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\TransferDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:19:56.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BranchDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\BranchDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\BranchDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\BranchDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\BranchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:20:48.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AccountDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\AccountDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\AccountDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\AccountDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\AccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:22:02.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "BankManagement.Application\\DTO\\AuthResponseDto.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Application\\DTO\\AuthResponseDto.cs",
+              "RelativeToolTip": "BankManagement.Application\\DTO\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:23:11.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Entities\\Branch.cs",
+              "RelativeDocumentMoniker": "BankManagement.Domain\\Entities\\Branch.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Entities\\Branch.cs",
+              "RelativeToolTip": "BankManagement.Domain\\Entities\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:57:02.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Entities\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "BankManagement.Domain\\Entities\\CustomerProfile.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Entities\\CustomerProfile.cs",
+              "RelativeToolTip": "BankManagement.Domain\\Entities\\CustomerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:58:30.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Entities\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankManagement.Domain\\Entities\\BankAccount.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Entities\\BankAccount.cs",
+              "RelativeToolTip": "BankManagement.Domain\\Entities\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:59:23.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Entities\\Card.cs",
+              "RelativeDocumentMoniker": "BankManagement.Domain\\Entities\\Card.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Entities\\Card.cs",
+              "RelativeToolTip": "BankManagement.Domain\\Entities\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:00:15.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BankTransaction.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Entities\\BankTransaction.cs",
+              "RelativeDocumentMoniker": "BankManagement.Domain\\Entities\\BankTransaction.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Entities\\BankTransaction.cs",
+              "RelativeToolTip": "BankManagement.Domain\\Entities\\BankTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:00:47.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Enum\\TransactionType.cs",
+              "RelativeDocumentMoniker": "BankManagement.Domain\\Enum\\TransactionType.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Enum\\TransactionType.cs",
+              "RelativeToolTip": "BankManagement.Domain\\Enum\\TransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:02:47.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Enum\\AccountType.cs",
+              "RelativeDocumentMoniker": "BankManagement.Domain\\Enum\\AccountType.cs",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.Domain\\Enum\\AccountType.cs",
+              "RelativeToolTip": "BankManagement.Domain\\Enum\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:03:25.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\course projects\\C#\\p4\\BankManagement.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BankManagement.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\course projects\\C#\\p4\\BankManagement.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BankManagement.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T21:21:54.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

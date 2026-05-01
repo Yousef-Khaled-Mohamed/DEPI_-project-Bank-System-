@@ -1,0 +1,11 @@
+D:\course projects\C#\p4\BankManagement.Domain\bin\Debug\net10.0\BankManagement.Domain.deps.json
+D:\course projects\C#\p4\BankManagement.Domain\bin\Debug\net10.0\BankManagement.Domain.dll
+D:\course projects\C#\p4\BankManagement.Domain\bin\Debug\net10.0\BankManagement.Domain.pdb
+D:\course projects\C#\p4\BankManagement.Domain\obj\Debug\net10.0\BankManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\course projects\C#\p4\BankManagement.Domain\obj\Debug\net10.0\BankManagement.Domain.AssemblyInfoInputs.cache
+D:\course projects\C#\p4\BankManagement.Domain\obj\Debug\net10.0\BankManagement.Domain.AssemblyInfo.cs
+D:\course projects\C#\p4\BankManagement.Domain\obj\Debug\net10.0\BankManagement.Domain.csproj.CoreCompileInputs.cache
+D:\course projects\C#\p4\BankManagement.Domain\obj\Debug\net10.0\BankManagement.Domain.dll
+D:\course projects\C#\p4\BankManagement.Domain\obj\Debug\net10.0\refint\BankManagement.Domain.dll
+D:\course projects\C#\p4\BankManagement.Domain\obj\Debug\net10.0\BankManagement.Domain.pdb
+D:\course projects\C#\p4\BankManagement.Domain\obj\Debug\net10.0\ref\BankManagement.Domain.dll
