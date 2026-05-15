@@ -11,5 +11,10 @@ namespace BankManagement.Application.IService
         Task<IEnumerable<TransactionDto>> GetTransactionsAsync(string customerUserId);
         Task<IEnumerable<LoanDto>> GetLoansAsync(string customerUserId);
         Task<TransactionDto> TransferAsync(string customerUserId, TransferDto request);
+        
+        Task<decimal> GetAccountBalanceAsync(int accountId);
+        Task<decimal> GetTotalBalanceAsync(string customerUserId);
+        Task<bool> PayLoanInstallmentAsync(int loanId, decimal amount);
+        Task<UserDto> GetMyProfileAsync(string customerUserId);
     }
 }
