@@ -109,6 +109,27 @@ namespace BankManagement.Infrastructure.Services
             return await dbContext.Accounts.Include(x => x.CustomerProfile).FirstOrDefaultAsync(x => x.Id == accountId && x.CustomerProfile.CreatedByTellerId == tellerUserId)
                 ?? throw new UnauthorizedAccessException("Teller can manage only their own customers.");
         }
+
+         public async Task<IEnumerable<AccountDto>> GetCustomerAccountsAsync(int customerId)
+         {
+             var accounts = await dbContext.Accounts.Include(a => a.Card).Where(a => a.CustomerProfileId == customerId).ToListAsync();
+             if (accounts == null || !accounts.Any())
+             {
+                 return Enumerable.Empty<AccountDto>(); 
+             }
+        
+             var accountDtos = accounts.Select(a => new AccountDto(
+                 a.Id,
+                 a.AccountNumber,
+                 a.AccountType,
+                 a.Balance,
+                 a.Card?.CardNumber ?? "No Card", 
+                 a.Card?.ExpiryDate ?? DateTime.MinValue
+             )).ToList();
+        
+             return accountDtos;
+         }
+
     }
 
 }
