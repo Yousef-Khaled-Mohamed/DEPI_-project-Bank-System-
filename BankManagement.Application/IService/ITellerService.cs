@@ -12,5 +12,6 @@ namespace BankManagement.Application.IService
         Task<TransactionDto> DepositAsync(string tellerUserId, AmountOperationDto request);
         Task<TransactionDto> WithdrawAsync(string tellerUserId, AmountOperationDto request);
         Task<LoanDto> CreateLoanAsync(string tellerUserId, CreateLoanDto request);
+        Task<IEnumerable<AccountDto>> GetCustomerAccountsAsync(int customerId); 
     }
 }
