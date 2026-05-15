@@ -13,7 +13,8 @@ namespace BankManagement.Infrastructure.Services
 {
     public class CustomerService(
      AppDbContext dbContext,
-     ILogger<CustomerService> logger) : ICustomerService
+     ILogger<CustomerService> logger,
+    UserManager<ApplicationUser> userManager) : ICustomerService
     {
         public async Task<IEnumerable<AccountDto>> GetAccountsAsync(string customerUserId)
         {
