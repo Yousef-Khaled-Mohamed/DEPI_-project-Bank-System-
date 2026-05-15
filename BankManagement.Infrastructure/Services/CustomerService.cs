@@ -71,6 +71,84 @@ namespace BankManagement.Infrastructure.Services
 
             return new TransactionDto(transferRecord.Id, transferRecord.AccountId, transferRecord.Amount, transferRecord.Type, transferRecord.Date, transferRecord.TargetAccountId);
         }
+
+         public async Task<decimal> GetAccountBalanceAsync(int accountId)
+         {
+             var account = await dbContext.Accounts.FirstOrDefaultAsync(a => a.Id == accountId);
+             if(account == null)
+             {
+                 throw new Exception("this account Not Found");
+             }
+             return account.Balance;
+         }
+        
+         public async Task<decimal> GetTotalBalanceAsync(string customerUserId)
+         {
+             var balances = await dbContext.Accounts
+                 .Where(a => a.CustomerProfile.IdentityUserId == customerUserId)
+                 .Select(a => a.Balance)
+                 .ToListAsync();
+        
+             return balances.Sum();
+         }
+        
+         public async Task<bool> PayLoanInstallmentAsync(int loanId, decimal amount)
+         {
+             var loan = await dbContext.Loans
+                 .Include(l => l.CustomerProfile)
+                 .FirstOrDefaultAsync(l => l.Id == loanId);
+        
+             if (loan == null) return false;
+        
+             var account = await dbContext.Accounts
+                 .FirstOrDefaultAsync(a => a.CustomerProfileId == loan.CustomerProfileId && a.Balance >= amount);
+        
+             if (account == null) return false;
+        
+             using var transaction = await dbContext.Database.BeginTransactionAsync();
+             try
+             {
+                 account.Balance -= amount;
+                 loan.Amount -= amount;
+        
+                 var bankTx = new BankTransaction
+                 {
+                     AccountId = account.Id,
+                     Amount = amount,
+                     Type = TransactionType.Withdraw,
+                     Date = DateTime.UtcNow
+                 };
+        
+                 dbContext.Transactions.Add(bankTx);
+        
+                 await dbContext.SaveChangesAsync();
+                 await transaction.CommitAsync();
+        
+                 return true;
+             }
+             catch (Exception ex)
+             {
+                 await transaction.RollbackAsync();
+                 logger.LogError(ex, "Error paying loan installment");
+                 return false;
+             }
+         }
+        
+         public async Task<UserDto> GetMyProfileAsync(string customerUserId)
+         {
+             var user = await userManager.FindByIdAsync(customerUserId);
+        
+             if (user == null) throw new KeyNotFoundException("User not found");
+        
+             return new UserDto(
+                 user.Id,
+                 user.UserName ?? "",
+                 user.Email ?? "",
+                 user.PhoneNumber ?? "N/A"
+             );
+         }
+
+
     }
 
 }
