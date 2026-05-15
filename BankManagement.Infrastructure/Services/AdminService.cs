@@ -76,6 +76,20 @@ namespace BankManagement.Infrastructure.Services
             await dbContext.SaveChangesAsync();
             return true;
         }
+
+         public async Task<IEnumerable<TellerDto>> GetAllTellersAsync()
+         {
+             var tellers = await userManager.GetUsersInRoleAsync(RoleNames.Teller);
+        
+             var tellerDtos = tellers.Select(t => new TellerDto(
+                 t.Id,
+                 t.UserName ?? string.Empty,
+                 t.Email ?? string.Empty,
+                 t.PhoneNumber ?? "No Phone Number"
+             )).ToList(); 
+        
+             return tellerDtos;
+         }
     }
 
 }
