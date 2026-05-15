@@ -13,6 +13,8 @@ namespace BankManagement.Application.IService
         Task<BranchDto> CreateBranchAsync(BranchDto dto);
         Task<BranchDto?> UpdateBranchAsync(int id, BranchDto dto);
         Task<bool> DeleteBranchAsync(int id);
+
+        Task<IEnumerable<TellerDto>> GetAllTellersAsync();
     }
 
 }
