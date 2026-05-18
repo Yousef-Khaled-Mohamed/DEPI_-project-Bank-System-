@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (web)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/BankSystemBackend/bin/Debug/net10.0/BankSystemBackend.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/BankSystemBackend",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/_content": "${workspaceFolder}/BankSystemBackend/wwwroot"
+            }
+        },
+        {
+            "name": "Launch BankSystem (C# Dev Kit)",
+            "type": "dotnet",
+            "request": "launch",
+            "project": "${workspaceFolder}/BankSystemBackend/BankSystemBackend.csproj",
+            "launchSettingsProfile": "https"
+        }
+    ]
+}

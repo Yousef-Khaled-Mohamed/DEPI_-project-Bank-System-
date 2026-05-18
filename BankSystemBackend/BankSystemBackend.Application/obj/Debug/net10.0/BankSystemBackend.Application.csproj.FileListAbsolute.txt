@@ -1,0 +1,15 @@
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\bin\Debug\net10.0\BankSystemBackend.Application.deps.json
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\bin\Debug\net10.0\BankSystemBackend.Application.dll
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\bin\Debug\net10.0\BankSystemBackend.Application.pdb
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\bin\Debug\net10.0\BankSystemBackend.Domain.dll
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\bin\Debug\net10.0\BankSystemBackend.Domain.pdb
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\obj\Debug\net10.0\BankSystemBackend.Application.csproj.AssemblyReference.cache
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\obj\Debug\net10.0\BankSystemBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\obj\Debug\net10.0\BankSystemBackend.Application.AssemblyInfoInputs.cache
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\obj\Debug\net10.0\BankSystemBackend.Application.AssemblyInfo.cs
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\obj\Debug\net10.0\BankSystemBackend.Application.csproj.CoreCompileInputs.cache
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\obj\Debug\net10.0\BankSyst.BC739179.Up2Date
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\obj\Debug\net10.0\BankSystemBackend.Application.dll
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\obj\Debug\net10.0\refint\BankSystemBackend.Application.dll
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\obj\Debug\net10.0\BankSystemBackend.Application.pdb
+D:\depi new\BankSystemBackend\BankSystemBackend.Application\obj\Debug\net10.0\ref\BankSystemBackend.Application.dll

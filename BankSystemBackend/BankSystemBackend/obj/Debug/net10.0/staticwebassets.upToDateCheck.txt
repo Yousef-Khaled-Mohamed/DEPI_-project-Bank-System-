@@ -1,0 +1,7 @@
+D:\depi new\BankSystemBackend\BankSystemBackend\wwwroot\css\style.css
+D:\depi new\BankSystemBackend\BankSystemBackend\wwwroot\js\app.js
+D:\depi new\BankSystemBackend\BankSystemBackend\wwwroot\index.html
+wwwroot\css\style.css
+wwwroot\index.html
+wwwroot\js\app.js
+wwwroot\uploads\profile-images\0e4ebbf9-9199-4541-9d60-45925adb010c.png
